@@ -16,14 +16,14 @@ export default function Sidebar() {
   return (
     <div className="sidebar">
       <div className="sidebarItem">
-        <span className="sidebarTitle">О нас</span>
-        <img
-          src="https://i.pinimg.com/236x/1e/3f/58/1e3f587572a7a7b20bbf1828595a1786--holiday-party-themes-holiday-gift-guide.jpg"
+        <span className="sidebarTitle">Реклама</span>
+        <img className="sidePhoto"
+          src="https://sun9-23.userapi.com/sun9-61/impf/c604618/v604618795/c017/m2uravTzCQ8.jpg?size=600x600&quality=96&sign=6eba237eddd2663f001e68a3502e862a&type=album"
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate qui
-          necessitatibus nostrum illum reprehenderit.
+        Добро пожаловать в наш салон Елены прекрасной! Делитесь своими историями, отзывами, актуальными трендами, связанными с миром красоты! 
+        <span> Телефон 8-800-555-35-35 </span>
         </p>
       </div>
       <div className="sidebarItem">

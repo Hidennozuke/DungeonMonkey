@@ -13,10 +13,11 @@ export default function TopBar() {
   return (
     <div className="top">
       <div className="topLeft">
-        <i className="topIcon fab fa-facebook-square"></i>
-        <i className="topIcon fab fa-twitter-square"></i>
-        <i className="topIcon fab fa-pinterest-square"></i>
-        <i className="topIcon fab fa-instagram-square"></i>
+        <img
+        className="topLogo"
+        src="http://localhost:5000/images/DGMonkey_logo.svg"
+        alt=""
+      />
       </div>
       <div className="topCenter">
         <ul className="topList">

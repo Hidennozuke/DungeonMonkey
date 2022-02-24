@@ -4,12 +4,10 @@ export default function Header() {
   return (
     <div className="header">
       <div className="headerTitles">
-        <span className="headerTitleSm">Dangion Monke</span>
-        <span className="headerTitleLg">News</span>
       </div>
       <img
         className="headerImg"
-        src="https://images.pexels.com/photos/1167355/pexels-photo-1167355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        src="http://localhost:5000/images/DGMonkey_banner.svg"
         alt=""
       />
     </div>

@@ -1,6 +1,6 @@
 .top {
   width: 100%;
-  height: 50px;
+  height: 75px;
   background-color: white;
   position: sticky;
   top: 0;
@@ -9,7 +9,10 @@
   font-family: "Josefin Sans", sans-serif;
   z-index: 999;
 }
-
+.topLogo{
+  
+  height: 55px;
+}
 .topLeft,
 .topRight {
   flex: 3;
