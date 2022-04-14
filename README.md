@@ -26,10 +26,13 @@
 ![image](https://user-images.githubusercontent.com/78948171/163335808-1aa655b5-8683-413d-8c25-dab95a41cb90.png)
 
 ## Страницы регистрации и авторизации
++ Регистрация
 ![image](https://user-images.githubusercontent.com/78948171/163336129-dc26c27a-c2d5-4ba5-81a0-9003599e19c7.png)
++ Авторизация
 ![image](https://user-images.githubusercontent.com/78948171/163336160-9e192817-3b44-424c-93d6-1b3908081704.png)
 
 ## Главная страница приложения
++ Здесь отображаются шапка сайта и главный баннер
 ![image](https://user-images.githubusercontent.com/78948171/163336327-5b1d85f5-2f88-4d89-8dd5-53c4d7b88479.png)
 + На этой странице выведены последние посты разных пользователей и рекланый блок.
 ![image](https://user-images.githubusercontent.com/78948171/163336536-cad7fcdd-ca53-4a9f-af2d-8c1128337d1a.png)
